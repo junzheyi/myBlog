@@ -4,13 +4,19 @@
   
     
     <entry>
-      <title>我的第一篇博客</title>
-      <link href="/2024/04/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-      <url>/2024/04/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+      <title>介绍我自己</title>
+      <link href="/2024/04/02/Introduction/"/>
+      <url>/2024/04/02/Introduction/</url>
       
-        <content type="html"><![CDATA[<p>欢迎来到我的个人博客！</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="欢迎来到我的个人博客"><a href="#欢迎来到我的个人博客" class="headerlink" title="欢迎来到我的个人博客"></a>欢迎来到我的个人博客</h3><hr><p>Q: 介绍一下我自己:</p><p>A: 华中科技大学电信学院本科生, 男, 来自地球.</p><p>Q: 为什么要搭建博客?</p><p>A: 我觉得大抵有写一些东西的必要了, 无论是记录学习过程还是生活随笔.</p><p>Q: 有什么想对自己说的话?</p><p>A: Stay hungry, stay foolish.</p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> life </tag>
+            
+        </tags>
       
     </entry>
     
